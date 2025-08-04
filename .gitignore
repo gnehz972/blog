@@ -2,5 +2,5 @@ public/
 resources/
 .hugo_build.lock
 
-.ideas/
+.idea/
 .DS_Store
